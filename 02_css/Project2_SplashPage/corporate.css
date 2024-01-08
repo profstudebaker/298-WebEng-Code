@@ -1,14 +1,33 @@
+/* 
+   importing the font that we want to use from Google Fonts
+*/
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
 
+/* 
+  CSS VARIABLES
+  - relatively new feature but has wide support
+  - set all variables on the body so we can use
+  throughout all elements
+  - to set a value to a variable: 
+   --variable_name: variable_value 
+  - to access the value later 
+    var(--variable_name)
+*/
 body {
+  /* --variable_name: variable_value */
   --primary: #2249bd;
   --background: white;
   --secondary: #383b42;
-  --spacing-unit: 6px;
+  --spacing-unit: 10px;
+  /* 
+    make every element within body use this font 
+    fallback options: serif, sans-serif, monospace
+  */
   font-family: "Open Sans", sans-serif;
 }
 
 .logo {
+  /* select image tag, override the src attribute */
   content: url("https://i.pinimg.com/originals/ea/53/3e/ea533ecbfd904d9f49e404a2813daf93.png");
 }
 

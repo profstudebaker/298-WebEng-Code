@@ -4,7 +4,7 @@ body {
 --primary: #22252a;
 --background: #8fccf8;
 --secondary: #353c46;
---spacing-unit: 4px;
+--spacing-unit: 10px;
 --shadow-color: 202deg 58% 45%;
 --shadow-elevation-low:
     0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.34),
