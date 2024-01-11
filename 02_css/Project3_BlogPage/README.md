@@ -5,12 +5,12 @@ For this assignment, you will practice implementing a mock up into code. This ti
 ### For the HTML
 Make sure you keep in mind the importance of semantic elements and choose appropriate tags for each piece of content on your page. 
 
-You can use Josh's Starter Template. 
+You can use [Josh's Starter Template](https://www.joshwcomeau.com/snippets/html/html-skeleton/). 
 
 ### For the CSS
 You will need to use multiple layout modes to complete this project. While there are multiple ways to accomplish this layout with CSS, try to use a combination of `positioned`, `flow`, and `flexbox` layout modes, since we have discussed those in class. 
 
-You can use Josh's CSS Reset for some sensible defaults. 
+You can use [Josh's CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/#our-finished-product-10) for some sensible defaults. 
 
 ## Goal
 
