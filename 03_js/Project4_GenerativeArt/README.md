@@ -4,7 +4,7 @@ To practice Javascript in a *fun and exciting* way, we will be using it to creat
 
 For this assignment, you will be following a [tutorial by Generative Artistry](https://generativeartistry.com/tutorials/joy-division/). 
 
-Use the template HTML file in this directory with a blank canvas element to get started, then add your javascript file with the code necessary to create the artwork. 
+Create an HTML file in this directory with a blank canvas element to get started, then add your javascript file with the code necessary to create the artwork. 
 
 You are allowed to take creative liberties with the tutorial if you'd like to experiment with the techniques described to generate something different. 
 
