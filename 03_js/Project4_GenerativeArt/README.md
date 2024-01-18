@@ -6,7 +6,7 @@ For this assignment, you will be following a [tutorial by Generative Artistry](h
 
 Create an HTML file in this directory with a blank canvas element to get started, then add your javascript file with the code necessary to create the artwork. 
 
-You are allowed to take creative liberties with the tutorial if you'd like to experiment with the techniques described to generate something different. 
+After completing the tutorial, you **must make at least one additional change** to the code (randomly create a color for each line, modify the CSS, etc) to make your masterpiece unique.
 
 ## Submission
 Submit a zip file with all necessary files to Canvas. 
